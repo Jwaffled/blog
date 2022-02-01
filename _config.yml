@@ -1,13 +1,13 @@
 # Site settings
-title:          Pancake Blog
-description:    "Pancakes can not be beaten. Fuck you, Waffles."
-url:            https://blog.pancakedev.tech
+title:          Waffle Blog
+description:    "Waffles can not be beaten. Fuck you, Pancakes."
+url:            https://blog.waffledev.tech
 
 # Author
 author:
-  name:         Pancake
-  email:        yo@pancakedev.tech
-  url:          https://blog.pancakedev.tech
+  name:         Waffle
+  email:        yo@waffledev.tech
+  url:          https://blog.waffledev.tech
 
 # Build settings
 markdown:       kramdown
@@ -34,4 +34,4 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: yo@pancakedev.tech
+  email: yo@waffledev.tech
